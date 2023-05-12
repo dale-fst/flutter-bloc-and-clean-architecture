@@ -2,6 +2,8 @@
 
 This Flutter project demonstrates the use of Flutter BLoC with a basic implementation of Clean Architecture. Firebase Firestore is used as a database to store task information.
 
+Here is the demo of the application:
+
 <img src="https://github.com/dale-fst/flutter-bloc-and-clean-architecture/blob/main/flutter-task-app.gif" width="50%">
 
 ## Getting Started
